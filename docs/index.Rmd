@@ -1,0 +1,31 @@
+---
+title: "My Website"
+author: "Parul Gupta - Data Product Development"
+date: "2025-08-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Parul
+I am a fourth year Statistics & Data Science major at UT Austin, minoring in Computer Science and Entrepreneurship. I was born and raised in California, so attending UT Austin was thef irst time I lived out of state. I am passionate about the intersection of business and technology and hope to pursue a career in this domain in the future. 
+
+
+Here’s my GitHub: [My GitHub Profile](https://github.com/parulg22) 
+
+## A Photo
+![Attending my college friend's grad party](my_photo.jpg)
+
+## Hobbies 
+- painting
+- hiking 
+- cooking
+- exploring downtowns 
+- event planning 
+
+
+*This website was built at:*  
+`r Sys.time()`
+
