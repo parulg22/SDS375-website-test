@@ -1,28 +1,27 @@
 ---
-title: "My Website"
-author: "Parul Gupta - Data Product Development"
-date: "2025-08-28"
-output: html_document
+title: "Parul Gupta"
+subtitle: "Statistics & Data Science @ UT Austin"
+image: "my_photo.jpg"
+links:
+  - label: "GitHub"
+    url: "https://github.com/parulg22"
+output: postcards::trestles
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## About Parul
-I am a fourth year Statistics & Data Science major at UT Austin, minoring in Computer Science and Entrepreneurship. I was born and raised in California, so attending UT Austin was thef irst time I lived out of state. I am passionate about the intersection of business and technology and hope to pursue a career in this domain in the future. 
+## About Me
+I am a fourth year Statistics & Data Science major at UT Austin, minoring in Computer Science and Entrepreneurship. I was born and raised in California, so attending UT Austin was the first time I lived out of state. Previously, I interned at Salesforce and Amazon where I built classification models for internal processes, predicting market risk and identifying how client companies should be matched to sales representatives. I am passionate about the intersection of business and technology and hope to pursue a career in this domain in the future. 
 
-
-Here’s my GitHub: [My GitHub Profile](https://github.com/parulg22) 
-
-## A Photo
-![Attending my college friend's grad party](my_photo.jpg)
 
 ## Hobbies 
 - painting
 - hiking 
 - cooking
-- exploring downtowns 
+- exploring cities 
 - event planning 
 
 
